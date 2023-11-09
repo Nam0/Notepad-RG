@@ -63,5 +63,341 @@
     <Image Include="..\..\..\..\Documents\notepad_2.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 9.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 14.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 15.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 16.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 17.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 18.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 19.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 20.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 21.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 22.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 23.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 24.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 25.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 26.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 27.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 28.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 29.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 30.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 31.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 32.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 33.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 34.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 35.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 36.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 37.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 38.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 39.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 40.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 41.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 42.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 43.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 44.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 45.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 46.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 47.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 48.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 49.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 50.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 51.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 52.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 53.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 54.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 55.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 56.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 57.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 58.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 59.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 60.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 61.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 62.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 63.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 64.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 65.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 66.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 67.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 68.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 69.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 70.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 71.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 72.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 73.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 74.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 75.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 76.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 77.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 78.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 79.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 80.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 81.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 82.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 83.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 84.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 85.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 86.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 87.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 88.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 89.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 90.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 91.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 92.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 93.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 94.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 95.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 96.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 97.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 98.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 99.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 100.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 101.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 102.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 103.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 104.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 105.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 106.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 107.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 108.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 109.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 110.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 111.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\Python\Gif Shit\bmps\frame 112.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
